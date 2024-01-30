@@ -1,2 +1,2 @@
-hey this is my second file
-created in VS code
+Updated this file from branch1
+file created in VS code
